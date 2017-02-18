@@ -1,0 +1,1 @@
+https://data.nasa.gov/resource/y77d-th95.json?$where=mass>5000000
